@@ -1,0 +1,36 @@
+.container
+{
+    margin-top:50px;
+
+    font-family: cursive;
+}
+/* 
+header {
+    padding: 5%;
+    padding-bottom: 10%;
+} */
+
+.timeDisplay
+{
+    font-family: cursive;
+    background-color: brown;
+    
+}
+.write-event{
+    font-family: cursive;
+     background-color:yellowgreen;  
+}
+
+.saveIcon {
+    background-color: aqua;
+    transition: all 0.2s;
+}
+
+.saveIcon:hover {
+    background-color: teal;
+    transition: scale(1.1);
+}
+
+.saveIcon:active {
+    background-color: mediumaquamarine;
+}
