@@ -21,8 +21,14 @@ header {
      background-color:yellowgreen;  
 }
 
-.saveIcon {
+.saveIcon{
     background-color: aqua;
+    transition: all 0.2s;
+}
+
+.deleteEvent
+{
+    background-color:yellow;
     transition: all 0.2s;
 }
 
